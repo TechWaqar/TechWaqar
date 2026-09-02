@@ -18,7 +18,7 @@
 
 ## 🧠 About Me
 
-I'm working toward a career in **Artificial Intelligence and Machine Learning**, building a foundation across development (Python, Java, Flutter) while steadily specializing in applied AI. My focus areas lean toward **AI/ML for agriculture and environmental systems**, and I'm preparing to pursue a **Master's degree in AI/ML** internationally — targeting programs across Europe, the UK, Australia, New Zealand, Canada, the USA, and Malaysia.
+I'm working toward a career in **Artificial Intelligence and Machine Learning**, building a foundation across development (Python, Java, Flutter) while steadily specializing in applied AI. My focus areas lean toward **AI/ML for agriculture and environmental systems**, and I'm preparing to pursue a **Master's degree in AI/ML**.
 
 Alongside development, I've spent years freelancing in design and data — experience that shapes how I approach clean, structured, client-ready work.
 
@@ -44,7 +44,7 @@ Alongside development, I've spent years freelancing in design and data — exper
 ![Skills](https://skillicons.dev/icons?i=aws,azure,gcp&theme=dark)
 
 </td></tr>
-<tr><td><b>AI / Data</b></td><td>
+<tr><td><b>AI | Data</b></td><td>
 
 ![Skills](https://skillicons.dev/icons?i=py,sklearn,pandas,numpy&theme=dark)
 
@@ -57,7 +57,7 @@ Alongside development, I've spent years freelancing in design and data — exper
 
 | Certification | Issuer | Date | Details |
 |---|---|---|---|
-| **Access Network Technician** | NETS International | Feb 2025 | Access Network Certified Technician – Level 01 |
+| **Access Network Technician** | NETS International | Feb 2025 | Access Network Certified Technician Level 01 |
 | **Microsoft Office 365 Training** | Students Teachers Engagement Program (STEP), SAU | Apr 2025 | Applied Office 365 skills training |
 | **Google IT Support Professional Certificate** | Google | — | IT Fundamentals, Networking, OS, System Administration & IT Security |
 | **Google AI Essentials** | Google | — | Intro to AI, Machine Learning, Neural Networks, Ethics & Applications |
@@ -67,10 +67,10 @@ Alongside development, I've spent years freelancing in design and data — exper
 
 ## 💼 Work Experience
 
-**Graphic Designer** · Fiverr *(Remote)* — 2021 – 2024
+**Graphic Designer** · Fiverr *(Remote)* 2021 | 2024
 Designed branding materials, social media content, professional layouts, and presentations using Canva and AI-based design tools. Delivered high-quality graphic content to international clients.
 
-**Data Analyst** · Fiverr *(Remote)* — 2022 – 2024
+**Data Analyst** · Fiverr *(Remote)* 2022 | 2024
 Performed data entry, data cleaning, formulas, pivot tables, and automation through MS Excel. Delivered accurate and timely work to clients globally.
 
 <br/>
